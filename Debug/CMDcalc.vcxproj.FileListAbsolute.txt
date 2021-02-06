@@ -1,0 +1,2 @@
+C:\Users\eveli\source\repos\CMDcalc\Debug\CMDcalc.exe
+C:\Users\eveli\source\repos\CMDcalc\Debug\CMDcalc.pdb
